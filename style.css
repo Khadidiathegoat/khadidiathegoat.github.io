@@ -1,0 +1,18 @@
+:root {
+--color-1:#FCF8F8;
+--color-2:#FBEFEF;
+--color-3:#F9DFDF;
+--color-4:#F5AFAF;
+}
+
+
+
+
+body {
+    
+  background-color: var(--color-3);
+}
+hr{
+    border-width: 3px;
+    border-color: black;
+}

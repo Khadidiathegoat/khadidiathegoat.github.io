@@ -1,3 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Ribeye&display=swap');
+
+
+
 :root {
 --color-1:#FCF8F8;
 --color-2:#FBEFEF;
@@ -9,10 +13,11 @@
 
 
 body {
-    
   background-color: var(--color-3);
+  color: #FF69B4;
+  font-family:"Ribeye"
 }
 hr{
-    border-width: 3px;
-    border-color: black;
+    border-width: 2.5px;
+    border-color: #FCF8F8;
 }

@@ -19,5 +19,8 @@ body {
 }
 hr{
     border-width: 2.5px;
-    border-color: #FCF8F8;
+    border-color: #fff;
+}
+#center {
+    text-align: center;
 }

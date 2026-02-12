@@ -24,3 +24,35 @@ hr{
 #center {
     text-align: center;
 }
+
+.About{
+  background-color:#FAF8F8;
+  border: 2px solid;
+  border-radius:8px;
+  
+}
+.index{
+  background-color: #FFF;
+  text-align: center;
+  border: 2px solid;
+  border-radius:8px;
+ 
+  
+}
+
+nav {
+  background-color: #fff6
+}
+
+nav a {
+  color:#FF69B4 ;
+  text-decoration: none;
+  padding: 16px;
+  display: inline-block;
+}
+
+nav a:hover {
+  background-color: #FF69B4;
+  color: #FFF
+  /* border-bottom: 2px solid blue; */
+}

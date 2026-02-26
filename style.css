@@ -56,3 +56,10 @@ nav a:hover {
   color: #FFF
   /* border-bottom: 2px solid blue; */
 }
+.pixels{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  background-color: #FF69B4;
+ padding-top:16px ;
+}

@@ -63,3 +63,8 @@ nav a:hover {
   background-color: #FF69B4;
  padding-top:16px ;
 }
+input, textarea,button {
+  padding: 8px;
+  background-color: #FFF;
+  border-radius:8px;
+}
